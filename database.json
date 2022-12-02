@@ -1,0 +1,154 @@
+{
+    "users":[
+        {
+            "id" : 1,
+            "name" : "James Linkous",
+            "handle" : "Roebuck's Ruin",
+            "email" : "James.William.Linkous@gmail.com",
+            "isStaff" : true
+        },{
+            "id" : 2,
+            "name" : "Jerry Thomas",
+            "handle" : "Bartender's Guide",
+            "email" : "Jerry.Thomas@bartendersguild.org",
+            "isStaff" : false
+        }
+    ],
+    "employees":[
+        {
+            "id" : 1,
+            "userId": 1
+        }
+    ],
+    "customers" : [
+        {
+            "id" : 1,
+            "userId" : 2
+        }
+    ],
+    "reviews" : [
+        {
+            "id" : 1,
+            "userId" : 1,
+            "cocktailId" : 1,
+            "review" : "This is pretty tasty, but smells like durian...",
+            "dateCompleted" :  "Fri, 02 Feb 1996 03:04:05 GMT"
+            
+        }
+    ],
+    "blogs" : [
+        {
+            "id" : 1,
+            "employeeId" : 1,
+            "image" : "url",
+            "content" : "The quick brown fox jumped over the something somthing.",
+            "dateCompleted" :  "Fri, 02 Feb 1996 03:04:05 GMT" 
+        }
+    ],
+    "bocktails" : [
+        {
+            "id" : 1,
+            "name" : "Old Fashioned",
+            "type" : 1,
+            "image" : "url",
+            "userId" : 1,
+            "notes" : "This is a six drink cocktail. The first two drinks should be strong. The next two drinks should be perfect. The final two drinks, the drink should be on its way out. Stir the cocktail in the glass on a giant piece of ice for more control and better presentation.",
+            "dateCompleted" : "Fri, 02 Feb 1996 03:04:05 GMT"
+        }
+    ],
+    "cocktailMethods" : [
+        {
+            "id" : 1,
+            "cocktailId" : 1,
+            "methodId" : 1
+        }
+    ],
+    "methods" : [
+        {
+            "id" : 1,
+            "name" : "stirred"
+        },{
+            "id" : 2,
+            "name" : "shake"
+        },{
+            "id" : 3,
+            "name" : "dry shake"
+        }
+    ],
+    "cocktailTypes" : [
+        {
+            "id" : 1,
+            "typeId" : 1,
+            "cocktailId" : 1
+        }
+    ],
+    "types" : [
+        {
+            "id" : 1,
+            "name" : "Sling"
+        },{
+            "id" : 2,
+            "name" : "Nog"
+        },{
+            "id" : 3,
+            "name" : "Hiball"
+        },{
+            "id" : 4,
+            "name" : "Sour"
+        },{
+            "id" : 5,
+            "name" : "Collins"
+        }
+    ],
+    "cocktailIngredients" : [
+        {
+            "id" : 1,
+            "cocktailId" : 1,
+            "ingredientId" : 1,
+            "volume" : 2.00
+        }, {
+            "id" : 2,
+            "cocktailId" : 1,
+            "ingredientId" : 2,
+            "volume" : 0.25
+        }, {
+            "id" : 3,
+            "cocktailId" : 1,
+            "ingredientId" : 3,
+            "volume" : 2.00
+        }
+    ],
+    "ingredients" : [
+        {
+            "id" : 1,
+            "name" : "Rye Whiskey",
+            "specificId" : 1
+        }, {
+            "id" : 2,
+            "name" : "Heavy Demerara",
+            "specificId" : 2
+        }, {
+            "id" : 3,
+            "name" : "Angostura",
+            "specificId" : 3
+        }
+    ],
+    "specifics" : [
+        {
+            "id" : 1,
+            "name" : "Spirit"
+        }, {
+            "id" : 2,
+            "name" : "Sugar"
+        }, {
+            "id" : 3,
+            "name" : "Bitters"
+        }, {
+            "id" : 4,
+            "name" : "Citrus"
+        }, {
+            "id" : 5,
+            "name" : "Lengthener"
+        }
+    ]
+}
