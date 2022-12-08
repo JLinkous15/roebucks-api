@@ -6,7 +6,7 @@
       "handle": "Roebuck's Ruin",
       "email": "james.william.linkous@gmail.com",
       "isStaff": true,
-      "nightMode": false
+      "darkMode": false
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "handle": "Bartender's Guide",
       "email": "jerry.thomas@bartendersguild.org",
       "isStaff": false,
-      "nightMode": true
+      "darkMode": true
     }
   ],
   "employees": [
@@ -132,17 +132,17 @@
     {
       "id": 1,
       "name": "Rye Whiskey",
-      "specificId": 1
+      "ingredientTypeId": 1
     },
     {
       "id": 2,
       "name": "Heavy Demerara",
-      "specificId": 2
+      "ingredientTypeId": 2
     },
     {
       "id": 3,
       "name": "Angostura",
-      "specificId": 3
+      "ingredientTypeId": 3
     }
   ],
   "ingredientTypes": [
