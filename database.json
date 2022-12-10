@@ -53,15 +53,9 @@
       "name": "Old Fashioned",
       "image": "url",
       "userId": 1,
+      "methodId": 1,
       "notes": "This is a six drink cocktail. The first two drinks should be strong. The next two drinks should be perfect. The final two drinks, the drink should be on its way out. Stir the cocktail in the glass on a giant piece of ice for more control and better presentation.",
       "dateCompleted": "Fri, 02 Feb 1996 03:04:05 GMT"
-    }
-  ],
-  "cocktailMethods": [
-    {
-      "id": 1,
-      "cocktailId": 1,
-      "methodId": 1
     }
   ],
   "methods": [
