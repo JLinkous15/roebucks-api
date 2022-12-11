@@ -61,15 +61,15 @@
   "methods": [
     {
       "id": 1,
-      "name": "stirred"
+      "name": "Stirred"
     },
     {
       "id": 2,
-      "name": "shake"
+      "name": "Shake"
     },
     {
       "id": 3,
-      "name": "dry shake"
+      "name": "Dry Shake"
     }
   ],
   "cocktailTypes": [
