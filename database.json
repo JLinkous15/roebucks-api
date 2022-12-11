@@ -6,7 +6,7 @@
       "handle": "Roebuck's Ruin",
       "email": "james.william.linkous@gmail.com",
       "isStaff": true,
-      "nightMode": false
+      "darkMode": false
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "handle": "Bartender's Guide",
       "email": "jerry.thomas@bartendersguild.org",
       "isStaff": false,
-      "nightMode": true
+      "darkMode": true
     }
   ],
   "employees": [
@@ -51,18 +51,11 @@
     {
       "id": 1,
       "name": "Old Fashioned",
-      "type": 1,
       "image": "url",
       "userId": 1,
+      "methodId": 1,
       "notes": "This is a six drink cocktail. The first two drinks should be strong. The next two drinks should be perfect. The final two drinks, the drink should be on its way out. Stir the cocktail in the glass on a giant piece of ice for more control and better presentation.",
       "dateCompleted": "Fri, 02 Feb 1996 03:04:05 GMT"
-    }
-  ],
-  "cocktailMethods": [
-    {
-      "id": 1,
-      "cocktailId": 1,
-      "methodId": 1
     }
   ],
   "methods": [
@@ -132,17 +125,17 @@
     {
       "id": 1,
       "name": "Rye Whiskey",
-      "specificId": 1
+      "ingredientTypeId": 1
     },
     {
       "id": 2,
       "name": "Heavy Demerara",
-      "specificId": 2
+      "ingredientTypeId": 2
     },
     {
       "id": 3,
       "name": "Angostura",
-      "specificId": 3
+      "ingredientTypeId": 3
     }
   ],
   "ingredientTypes": [
