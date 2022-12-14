@@ -51,11 +51,42 @@
     {
       "id": 1,
       "name": "Old Fashioned",
-      "image": "url",
+      "image": "https://res.cloudinary.com/dwbxabkg7/image/upload/v1670860377/OldFashioned_t3gi32.jpg",
       "userId": 1,
       "methodId": 1,
       "notes": "This is a six drink cocktail. The first two drinks should be strong. The next two drinks should be perfect. The final two drinks, the drink should be on its way out. Stir the cocktail in the glass on a giant piece of ice for more control and better presentation.",
-      "dateCompleted": "Fri, 02 Feb 1996 03:04:05 GMT"
+      "dateCompleted": 1670887444005,
+      "method": {
+        "id": 1,
+        "name": "Stirred"
+      }
+    },
+    {
+      "name": "Bramble",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1670895053/lhdw9ptgo4nsfxxjpr71.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "Dick Bradsell's original cocktail was inspired by a tasting of an English Creme de Mure that reminded him of his youth in the English countryside. As such, he made the drink in the hopes that it would be a love song to England. The Roebuck's Ruin approach to fruit-based liqueurs is to muddle fresh fruit--in this case blackberries--into the cocktail with a lighter pour of simple syrup to account for the sweetness of the berries. If you enjoy this beverage, definitely check out the original Cosmopolitan!",
+      "dateCompleted": 1670895055106,
+      "id": 2
+    },
+    {
+      "name": "Daiquiri",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1670895564/cpbxbahyh9rb5jvx2xzb.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The official origin story of the Daiquiri is not worth diving into. The mixing of rum, lime, and sugar predated the claims of the rich, white guy who claimed the invention of the beverage. Sailors of the time were rationed a grog of the three ingredients:\nLime to prevent scurvy, rum and sugar to prevent mutiny.",
+      "dateCompleted": 1670895565064,
+      "id": 3
+    },
+    {
+      "name": "Kentucky Buck",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1670945142/qx7vvlcladvffyywgsui.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "This modern classic was originally made by Erick Castro and Bourbon & Branch in San Francisco. For me, this drink makes me consider how strawberries fit into a cocktail. I tend to think of them as auto-balancing, bringing enough sugar and acid to a sour or collins without needing to make other considerations for citrus or syrup.",
+      "dateCompleted": 1670945144796,
+      "id": 4
     }
   ],
   "methods": [
@@ -70,6 +101,10 @@
     {
       "id": 3,
       "name": "Dry Shake"
+    },
+    {
+      "id": 4,
+      "name": "Build In Glass"
     }
   ],
   "cocktailTypes": [
@@ -77,6 +112,21 @@
       "id": 1,
       "typeId": 1,
       "cocktailId": 1
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 2,
+      "id": 2
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 3,
+      "id": 3
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 4,
+      "id": 4
     }
   ],
   "types": [
@@ -119,6 +169,78 @@
       "cocktailId": 1,
       "ingredientId": 3,
       "volume": 2
+    },
+    {
+      "volume": 2,
+      "ingredientId": 6,
+      "cocktailId": 2,
+      "id": 4
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 4,
+      "cocktailId": 2,
+      "id": 5
+    },
+    {
+      "volume": 0.5,
+      "ingredientId": 9,
+      "cocktailId": 2,
+      "id": 6
+    },
+    {
+      "volume": 4,
+      "ingredientId": 14,
+      "cocktailId": 2,
+      "id": 7
+    },
+    {
+      "volume": 2,
+      "ingredientId": 8,
+      "cocktailId": 3,
+      "id": 8
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 9,
+      "cocktailId": 3,
+      "id": 9
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 5,
+      "cocktailId": 3,
+      "id": 10
+    },
+    {
+      "volume": 2,
+      "ingredientId": 20,
+      "cocktailId": 4,
+      "id": 11
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 4,
+      "cocktailId": 4,
+      "id": 12
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 18,
+      "cocktailId": 4,
+      "id": 13
+    },
+    {
+      "volume": 2,
+      "ingredientId": 16,
+      "cocktailId": 4,
+      "id": 14
+    },
+    {
+      "volume": 2,
+      "ingredientId": 19,
+      "cocktailId": 4,
+      "id": 15
     }
   ],
   "ingredients": [
@@ -136,6 +258,91 @@
       "id": 3,
       "name": "Angostura",
       "ingredientTypeId": 3
+    },
+    {
+      "id": 4,
+      "name": "Lemon",
+      "ingredientTypeId": 4
+    },
+    {
+      "id": 5,
+      "name": "Lime",
+      "ingredientTypeId": 4
+    },
+    {
+      "id": 6,
+      "name": "London Dry Gin",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 7,
+      "name": "Blanco Tequila",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 8,
+      "name": "Jamaican Rum",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 9,
+      "name": "Simple Syrup",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 10,
+      "name": "Sweet Vermouth",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 11,
+      "name": "Benedictine",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 12,
+      "name": "Cognac",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 13,
+      "name": "Orange Oleosaccharum",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 14,
+      "name": "Blackberries",
+      "ingredientTypeId": 6
+    },
+    {
+      "id": 15,
+      "name": "Pineapple Juice",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 16,
+      "name": "Soda",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 17,
+      "name": "Heavy Cream",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 18,
+      "name": "Ginger Syrup",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 19,
+      "name": "Strawberries",
+      "ingredientTypeId": 6
+    },
+    {
+      "id": 20,
+      "name": "Bourbon Whiskey",
+      "ingredientTypeId": 1
     }
   ],
   "ingredientTypes": [
@@ -158,6 +365,10 @@
     {
       "id": 5,
       "name": "Lengthener"
+    },
+    {
+      "id": 6,
+      "name": "Fresh Fruit"
     }
   ]
 }
