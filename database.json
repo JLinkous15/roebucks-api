@@ -55,11 +55,7 @@
       "userId": 1,
       "methodId": 1,
       "notes": "This is a six drink cocktail. The first two drinks should be strong. The next two drinks should be perfect. The final two drinks, the drink should be on its way out. Stir the cocktail in the glass on a giant piece of ice for more control and better presentation.",
-      "dateCompleted": 1670887444005,
-      "method": {
-        "id": 1,
-        "name": "Stirred"
-      }
+      "dateCompleted": 1670887444005
     },
     {
       "name": "Bramble",
@@ -81,12 +77,30 @@
     },
     {
       "name": "Kentucky Buck",
-      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1670945142/qx7vvlcladvffyywgsui.jpg",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671031548/e1ojpan2dwq6zaoyb2fr.jpg",
       "userId": 1,
       "methodId": 2,
-      "notes": "This modern classic was originally made by Erick Castro and Bourbon & Branch in San Francisco. For me, this drink makes me consider how strawberries fit into a cocktail. I tend to think of them as auto-balancing, bringing enough sugar and acid to a sour or collins without needing to make other considerations for citrus or syrup.",
-      "dateCompleted": 1670945144796,
+      "notes": "This modern classic was originally made by Erick Castro and Bourbon & Branch in San Francisco. For me, this drink makes me consider how strawberries fit into a cocktail. I tend to think of them as auto-balancing, bringing enough sugar and acid to a sour or collins without needing to make other considerations for citrus or z'foo.",
+      "dateCompleted": 1671031550612,
       "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Bee's Knees",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671048723/cqrl29b3jndplspinrvr.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Bee's Knees is an American Prohibition-era cocktail. The character of the bathtub gin was big and mean, so a honey syrup was used help mask the flavor of the sub-par spirit. 100 years later, we don't have that issue. To properly balance this cocktail, Roebuck's Ruin suggests a honey syrup that is 3:2 honey to water. Honey is roughly 80% sugar, which results in a 50% sugar solution.",
+      "dateCompleted": 1671048725203
+    },
+    {
+      "id": 6,
+      "name": "Penicillin",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671049305/nwtgfzzvy7vhgdg70qw9.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Penicillin is a modern classic from Sam Ross at Milk and Honey. This cocktail was a riff on another modern classic--the gold rush--but includes a light pour of ginger syrup and a float of a peaty Islay scotch. Sam Ross now owns Attaboy New York and Attaboy Nashville.",
+      "dateCompleted": 1671049306897
     }
   ],
   "methods": [
@@ -127,6 +141,16 @@
       "typeId": 5,
       "cocktailId": 4,
       "id": 4
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 5,
+      "id": 5
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 6,
+      "id": 6
     }
   ],
   "types": [
@@ -153,12 +177,6 @@
   ],
   "cocktailIngredients": [
     {
-      "id": 1,
-      "cocktailId": 1,
-      "ingredientId": 1,
-      "volume": 2
-    },
-    {
       "id": 2,
       "cocktailId": 1,
       "ingredientId": 2,
@@ -175,12 +193,6 @@
       "ingredientId": 6,
       "cocktailId": 2,
       "id": 4
-    },
-    {
-      "volume": 0.75,
-      "ingredientId": 4,
-      "cocktailId": 2,
-      "id": 5
     },
     {
       "volume": 0.5,
@@ -213,18 +225,6 @@
       "id": 10
     },
     {
-      "volume": 2,
-      "ingredientId": 20,
-      "cocktailId": 4,
-      "id": 11
-    },
-    {
-      "volume": 0.75,
-      "ingredientId": 4,
-      "cocktailId": 4,
-      "id": 12
-    },
-    {
       "volume": 0.75,
       "ingredientId": 18,
       "cocktailId": 4,
@@ -232,15 +232,87 @@
     },
     {
       "volume": 2,
-      "ingredientId": 16,
-      "cocktailId": 4,
-      "id": 14
-    },
-    {
-      "volume": 2,
       "ingredientId": 19,
       "cocktailId": 4,
       "id": 15
+    },
+    {
+      "ingredientId": 20,
+      "volume": 2,
+      "cocktailId": 4,
+      "id": 16
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 4,
+      "id": 17
+    },
+    {
+      "ingredientId": 16,
+      "volume": 2,
+      "cocktailId": 4,
+      "id": 18
+    },
+    {
+      "ingredientId": 20,
+      "volume": 2,
+      "cocktailId": 1,
+      "id": 20
+    },
+    {
+      "ingredientId": 5,
+      "volume": 0.75,
+      "cocktailId": 2,
+      "id": 21
+    },
+    {
+      "ingredientId": 6,
+      "volume": 2,
+      "cocktailId": 5,
+      "id": 22
+    },
+    {
+      "ingredientId": 21,
+      "volume": 0.75,
+      "cocktailId": 5,
+      "id": 23
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 5,
+      "id": 24
+    },
+    {
+      "ingredientId": 23,
+      "volume": 2,
+      "cocktailId": 6,
+      "id": 25
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 6,
+      "id": 26
+    },
+    {
+      "ingredientId": 21,
+      "volume": 0.375,
+      "cocktailId": 6,
+      "id": 27
+    },
+    {
+      "ingredientId": 18,
+      "volume": 0.375,
+      "cocktailId": 6,
+      "id": 28
+    },
+    {
+      "ingredientId": 24,
+      "volume": 0.25,
+      "cocktailId": 6,
+      "id": 29
     }
   ],
   "ingredients": [
@@ -343,6 +415,31 @@
       "id": 20,
       "name": "Bourbon Whiskey",
       "ingredientTypeId": 1
+    },
+    {
+      "id": 21,
+      "name": "Honey Syrup",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 22,
+      "name": "Creme de Cassis",
+      "ingredientTypeId": 7
+    },
+    {
+      "id": 23,
+      "name": "Blended Scotch",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 24,
+      "name": "Islay Scotch",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 25,
+      "name": "Mint",
+      "ingredientTypeId": 6
     }
   ],
   "ingredientTypes": [
@@ -367,8 +464,12 @@
       "name": "Lengthener"
     },
     {
+      "id": 7,
+      "name": "Liqueur"
+    },
+    {
       "id": 6,
-      "name": "Fresh Fruit"
+      "name": "Fresh Produce"
     }
   ]
 }
