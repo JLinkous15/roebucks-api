@@ -85,15 +85,6 @@
       "id": 4
     },
     {
-      "id": 5,
-      "name": "Bee's Knees",
-      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671048723/cqrl29b3jndplspinrvr.jpg",
-      "userId": 1,
-      "methodId": 2,
-      "notes": "The Bee's Knees is an American Prohibition-era cocktail. The character of the bathtub gin was big and mean, so a honey syrup was used help mask the flavor of the sub-par spirit. 100 years later, we don't have that issue. To properly balance this cocktail, Roebuck's Ruin suggests a honey syrup that is 3:2 honey to water. Honey is roughly 80% sugar, which results in a 50% sugar solution.",
-      "dateCompleted": 1671048725203
-    },
-    {
       "id": 6,
       "name": "Penicillin",
       "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671049305/nwtgfzzvy7vhgdg70qw9.jpg",
@@ -101,6 +92,28 @@
       "methodId": 2,
       "notes": "The Penicillin is a modern classic from Sam Ross at Milk and Honey. This cocktail was a riff on another modern classic--the gold rush--but includes a light pour of ginger syrup and a float of a peaty Islay scotch. Sam Ross now owns Attaboy New York and Attaboy Nashville.",
       "dateCompleted": 1671049306897
+    },
+    {
+      "id": 7,
+      "name": "Bees Knees",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671070994/sglx9dfadmpamfdtzcsr.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Bee's Knees is an American Prohibition-era cocktail. The character of the bathtub gin was big and mean, so a honey syrup was used help mask the flavor of the sub-par spirit. 100 years later, we don't have that issue. To properly balance this cocktail, Roebuck's Ruin suggests a honey syrup that is 3:2 honey to water. Honey is roughly 80% sugar, which results in a 50% sugar solution.",
+      "dateCompleted": 1671070995487
+    },
+    {
+      "id": 8,
+      "name": "Rum Runner",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671071796/ekwty6f5hgihppkcoyeb.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "This beverage is named after the rum merchants who sold the product off American shores during prohibition, the rum runner has had a few variations over the years. The original version of this cocktail was a sweet drink with a fair amount of fruit juice and no real structure. The Roebuck's Ruin favorite version of the Rum Runner comes from Erick Castro at Raised by Wolves. He took the beverage and added a primary acid to balance out the sugar in the beverage, simplified the spirit selection, and a fair amount of bitters as a float, to spice up the nose of the beverage.",
+      "dateCompleted": 1671071796744,
+      "method": {
+        "id": 2,
+        "name": "Shake"
+      }
     }
   ],
   "methods": [
@@ -114,7 +127,7 @@
     },
     {
       "id": 3,
-      "name": "Dry Shake"
+      "name": "Reverse Dry Shake"
     },
     {
       "id": 4,
@@ -144,13 +157,18 @@
     },
     {
       "typeId": 4,
-      "cocktailId": 5,
-      "id": 5
+      "cocktailId": 6,
+      "id": 6
     },
     {
       "typeId": 4,
-      "cocktailId": 6,
-      "id": 6
+      "cocktailId": 7,
+      "id": 7
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 8,
+      "id": 8
     }
   ],
   "types": [
@@ -267,24 +285,6 @@
       "id": 21
     },
     {
-      "ingredientId": 6,
-      "volume": 2,
-      "cocktailId": 5,
-      "id": 22
-    },
-    {
-      "ingredientId": 21,
-      "volume": 0.75,
-      "cocktailId": 5,
-      "id": 23
-    },
-    {
-      "ingredientId": 4,
-      "volume": 0.75,
-      "cocktailId": 5,
-      "id": 24
-    },
-    {
       "ingredientId": 23,
       "volume": 2,
       "cocktailId": 6,
@@ -313,6 +313,54 @@
       "volume": 0.25,
       "cocktailId": 6,
       "id": 29
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 7,
+      "id": 30
+    },
+    {
+      "ingredientId": 21,
+      "volume": 0.75,
+      "cocktailId": 7,
+      "id": 31
+    },
+    {
+      "ingredientId": 6,
+      "volume": 2,
+      "cocktailId": 7,
+      "id": 32
+    },
+    {
+      "ingredientId": 8,
+      "volume": 2,
+      "cocktailId": 8,
+      "id": 33
+    },
+    {
+      "ingredientId": 5,
+      "volume": 1,
+      "cocktailId": 8,
+      "id": 34
+    },
+    {
+      "ingredientId": 9,
+      "volume": 1,
+      "cocktailId": 8,
+      "id": 35
+    },
+    {
+      "ingredientId": 26,
+      "volume": 2,
+      "cocktailId": 8,
+      "id": 36
+    },
+    {
+      "ingredientId": 3,
+      "volume": 10,
+      "cocktailId": 8,
+      "id": 37
     }
   ],
   "ingredients": [
@@ -440,6 +488,11 @@
       "id": 25,
       "name": "Mint",
       "ingredientTypeId": 6
+    },
+    {
+      "id": 26,
+      "name": "Pineapple Juice",
+      "ingredientTypeId": 5
     }
   ],
   "ingredientTypes": [
