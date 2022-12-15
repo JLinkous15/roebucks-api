@@ -376,7 +376,7 @@
     },
     {
       "id": 3,
-      "name": "Angostura",
+      "name": "Angostura Bitters",
       "ingredientTypeId": 3
     },
     {
@@ -493,6 +493,11 @@
       "id": 26,
       "name": "Pineapple Juice",
       "ingredientTypeId": 5
+    },
+    {
+      "id": 27,
+      "name": "Peyschaud's Bitters",
+      "ingredientTypeId": 3
     }
   ],
   "ingredientTypes": [
