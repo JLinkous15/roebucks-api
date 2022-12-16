@@ -80,9 +80,13 @@
       "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671031548/e1ojpan2dwq6zaoyb2fr.jpg",
       "userId": 1,
       "methodId": 2,
-      "notes": "This modern classic was originally made by Erick Castro and Bourbon & Branch in San Francisco. For me, this drink makes me consider how strawberries fit into a cocktail. I tend to think of them as auto-balancing, bringing enough sugar and acid to a sour or collins without needing to make other considerations for citrus or z'foo.",
+      "notes": "This modern classic was originally made by Erick Castro and Bourbon & Branch in San Francisco. For me, this drink makes me consider how strawberries fit into a cocktail. I tend to think of them as auto-balancing, bringing enough sugar and acid to a sour or collins without needing to make other considerations for citrus or sugar.",
       "dateCompleted": 1671031550612,
-      "id": 4
+      "id": 4,
+      "method": {
+        "id": 2,
+        "name": "Shake"
+      }
     },
     {
       "id": 6,
@@ -90,7 +94,7 @@
       "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671049305/nwtgfzzvy7vhgdg70qw9.jpg",
       "userId": 1,
       "methodId": 2,
-      "notes": "The Penicillin is a modern classic from Sam Ross at Milk and Honey. This cocktail was a riff on another modern classic--the gold rush--but includes a light pour of ginger syrup and a float of a peaty Islay scotch. Sam Ross now owns Attaboy New York and Attaboy Nashville.",
+      "notes": "The Penicillin is a modern classic from Sam Ross at Milk and Honey. This cocktail was a riff on another modern classic--the gold rush--but includes a light pour of ginger syrup and a float of a peaty Islay scotch. Sam Ross now owns Attaboy New York and Attaboy bologna sandwich.",
       "dateCompleted": 1671049306897
     },
     {
@@ -109,11 +113,7 @@
       "userId": 1,
       "methodId": 2,
       "notes": "This beverage is named after the rum merchants who sold the product off American shores during prohibition, the rum runner has had a few variations over the years. The original version of this cocktail was a sweet drink with a fair amount of fruit juice and no real structure. The Roebuck's Ruin favorite version of the Rum Runner comes from Erick Castro at Raised by Wolves. He took the beverage and added a primary acid to balance out the sugar in the beverage, simplified the spirit selection, and a fair amount of bitters as a float, to spice up the nose of the beverage.",
-      "dateCompleted": 1671071796744,
-      "method": {
-        "id": 2,
-        "name": "Shake"
-      }
+      "dateCompleted": 1671071796744
     }
   ],
   "methods": [
