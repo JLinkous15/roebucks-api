@@ -48,6 +48,16 @@
       "articleTopicId": 1,
       "date": "Mon Dec 19 2022 14:46:45 GMT-0600 (Central Standard Time)",
       "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Oleosaccharum",
+      "subTitle": "Creating Potent Flavors With Waste Ingredients",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671565080/ozwwnozjxvxdqthpb7hy.jpg",
+      "content": "Essential oils are a boutiful source of flavor and aroma. Soda companies often make use of extremely potent, industrial grade essential oils to produce soft drinks in colossal volumes, but what if I told you the origin of this technique lies in Oleosaccharum; a Punch ingredient? \n\nLet's define our terms here. When I use the word, “Punch,” I don't mean some clumsy concoction of Kool-Aide and booze. Punch is the precursor to the cocktail – specifically the sour. Prior to the industrial revolution, laborers would gather after a hard day's work to enjoy large-format beverages at the local tavern. To get the most flavor from the imported citrus, the peels of the fruit would be steeped in crystaline sugar to pull out the oils. This process results in bolstering the flavor of the citrus without adding additional acid, resulting in an unbalanced beverage. This is called an, “Oleosaccharum” – literally translating to “oil sugar.”\n\nThere is a lot of false information regarding Oleosaccharum. First, the biggest myth is that it is a hygroscopic process, which couldn't be further from the truth. The term “hygroscopic” refers to a scientific instrument, the hygroscope, which is no longer scientifically viable. It was meant to measure the relative humidity based on a differential of swell in certain organic materials. Oleosaccharum is the product of sugar crystals masserating the peels of oily citrus, and does not rely much on the moisture content of said peels. The second biggest myth is that any fruit can be used to produce Oleosaccharum. I often see “Strawberry Oleosaccharum” on menus, but the sugar is pulling substantially more water from the strawberries than oil, producing a syrup. Finally, let's address pourable Oleosaccharum. Water is an ingredient in all cocktails, and adding it to an Oleosaccharum to make it more pourable is a similar solution to that of honey syrup. The use of an oleo syrup is great, since it adds flavor while maximizing yields for bulk service, but we can do better at home. Using less sugar results in a pure, pourable Oleosaccharum, though the yield is substantially smaller. Look for our article on Sherbet to see a great compromise between syrups and oleos! Does any of this really matter for the production of a cocktail? No. I would just rather not see a centuries old craft be reduced to appropriated buzz words.\n\nTo make an Oleosaccharum, you add peels to sugar. That's it. The Roebuck's Ruin approach to an Oleosaccharum is to limit the sugar to peel ratio to maximize the flavanoids of the peels to the weight of the sugar. For large grapefruit, I use 60g/fruit. A standard orange will see around 45g/fruit, and lemons and lime, depending on their size, will see 20-30g/fruit. Definitely try this out in some of your favorite classic cocktails or just mix with soda for a refreshing, homemade soft drink.",
+      "articleTopicId": 3,
+      "date": "Tue Dec 20 2022 13:38:01 GMT-0600 (Central Standard Time)",
+      "id": 2
     }
   ],
   "articleTopics": [
@@ -462,12 +472,6 @@
       "volume": 0.75,
       "cocktailId": 10,
       "id": 44
-    },
-    {
-      "ingredientId": 18,
-      "volume": 3,
-      "cocktailId": 11,
-      "id": 45
     }
   ],
   "ingredients": [
