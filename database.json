@@ -162,11 +162,11 @@
     },
     {
       "id": 11,
-      "name": "kdjfnvfdv",
+      "name": "El Diablo",
       "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671212168/bf0s3wvorqwrcaiosaqt.jpg",
       "userId": 1,
       "methodId": 1,
-      "notes": "iwasjkbedvdjkvsbsdjkvbsdvjkb",
+      "notes": "This drink was originally created by Tiki titan, Trader Vic, in the 1940s. The original spec calls for ginger beer, but ginger beer wildly fluctuates in spice and sweetness (think Canada Dry vs. Barritt's. My preferred spec is a standard Collins-style beverage with a split sugar of Creme de Cassis--or black currant liqueur--and ginger syrup. Some iterations of this cocktail sink the Creme de Cassis to diffuse into the cocktail, and where this looks cool, it makes every sip either too sharp or too sweet. Layering a cocktail is better suited for ingredients that don't affect the balance of the beverage. To REALLY impress your friends and patrons, hand carve an ice spear and garnish with a hellish pour of ignited Lemon Hart 151 in a spent lime husk, as a nod to the beverage's tiki origins.",
       "dateCompleted": 1671212169445
     }
   ],
@@ -189,11 +189,6 @@
     }
   ],
   "cocktailTypes": [
-    {
-      "id": 1,
-      "typeId": 1,
-      "cocktailId": 1
-    },
     {
       "typeId": 4,
       "cocktailId": 2,
@@ -235,9 +230,14 @@
       "id": 10
     },
     {
-      "typeId": 2,
+      "typeId": 1,
+      "cocktailId": 1,
+      "id": 13
+    },
+    {
+      "typeId": 5,
       "cocktailId": 11,
-      "id": 11
+      "id": 14
     }
   ],
   "types": [
@@ -263,12 +263,6 @@
     }
   ],
   "cocktailIngredients": [
-    {
-      "id": 2,
-      "cocktailId": 1,
-      "ingredientId": 2,
-      "volume": 0.25
-    },
     {
       "id": 3,
       "cocktailId": 1,
@@ -472,6 +466,42 @@
       "volume": 0.75,
       "cocktailId": 10,
       "id": 44
+    },
+    {
+      "ingredientId": 2,
+      "volume": 0.25,
+      "cocktailId": 1,
+      "id": 45
+    },
+    {
+      "ingredientId": 7,
+      "volume": 2,
+      "cocktailId": 11,
+      "id": 46
+    },
+    {
+      "ingredientId": 5,
+      "volume": 1,
+      "cocktailId": 11,
+      "id": 47
+    },
+    {
+      "ingredientId": 22,
+      "volume": 0.5,
+      "cocktailId": 11,
+      "id": 49
+    },
+    {
+      "ingredientId": 16,
+      "volume": 2,
+      "cocktailId": 11,
+      "id": 50
+    },
+    {
+      "ingredientId": 18,
+      "volume": 0.5,
+      "cocktailId": 11,
+      "id": 51
     }
   ],
   "ingredients": [
@@ -583,7 +613,7 @@
     {
       "id": 22,
       "name": "Creme de Cassis",
-      "ingredientTypeId": 7
+      "ingredientTypeId": 2
     },
     {
       "id": 23,
