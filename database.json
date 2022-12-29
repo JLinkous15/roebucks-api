@@ -38,45 +38,216 @@
       "dateCompleted": "Fri, 02 Feb 1996 03:04:05 GMT"
     }
   ],
-  "blogs": [
+  "articles": [
+    {
+      "userId": 1,
+      "title": "About Roebuck's Ruin",
+      "subTitle": "Cocktail Theory and Absolutely No Olives",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671482800/yaa7mv9mfa8ptekrcsdn.jpg",
+      "content": "Welcome to Roebuck's Ruin! The experience we have crafted here relies heavily on cocktail theory—a very subjective idea about how to build cocktails. RR prescribes to a simplified categorization of cocktails as the Death & Co. Cocktail Codex, grouping certain ingredients based on function. More about this below. RR also has certain values that are baked into the experience—most noteably regarding certain ingredients. Having worked behind the bar, there is nothing more distressing than learning hundreds of cocktails that span centuries of history to have 80% of your orders be predominantly olive brine. You won't be finding olive cocktails on this site. You've been warned...\\n\\nThe Categories:\\nSlings: The Bittered Sling is the original cocktail. It includes four types of ingredients: spirit, sugar, water, and bitters. This includes drinks such as the Old Fashioned, Sazerac, Vieux Carre, Negroni, and other boozy beverages. At RR, we've included Martinis, Manhattans, etc. into this category, as the only real difference between the two is the source of the sugar.\\n\\nFlips: When an ingredient meant to lengthen the flavors of a Sling plays a primary function in the cocktail, you have a Flip. The original Flip utilized a whole egg to lengthen a Sling-style cocktail, but White Russians and Eggnog use cream. Simply put, think of Flips as lengthened Slings.\\n\\nSours: While a Sling uses sugar to create a silky mouthfeel and balances that sugar with bitters and proof, a sour finds balance between sugar and citrus. This category includes Daiquiris, Gimlets, Mai Tais, and Whiskey Sours. While the egg white in a Whiskey Sour is technically a lengthener, it isn't of a large enough volume to drastically modify the flavor of the beverage. Sidecars are also included in this category, since a liqueur is fundamentally a shelf-stable sugar.\\n\\nCollins: The Collins category may get us in trouble, but at RR, we think of a Collins-style beverage as being a lengthened Sour. Soda, cream, eggs, etc. lengthen flavors in a cocktail and require additional balancing. We've also accounted for the Tiki pantheon, considering pineapple juice to be a self-balancing lengthener. The legendary Jungle Bird and Erick Castro's famous Rum Runner find a home in this category next to the Tom Collins and Ramos Gin Fizz.\\n\\nHiball: The term “Hiball” most notably describes the Japanese Hiball, which includes Japanese Whiskey and Soda. Practically, a Hiball is spirit and mixer. This is where your Gin & Tonics, Rum & Cokes, Screwdrivers, etc. exist. Strangely enough, Hiballs are often built as lengthened Slings, much like a Flip. The main difference is that a Hiball generally aims to be refreshing, while a Flip aims to be comforting and hearty during cold weather.\\n\\nAbout the Dirty Vodka Martini:\\nOne of the classic garnishes for a classic martini is an olive. It's spectacular to have a salt and umami bomb after a sweet and herbaceous cocktail. The original Dirty Martini was a classic gin martini with vermouth and a small pour of brine—the salt acting as a flavor enhancer. Due to various stupid mistakes, including post-prohibition bartenders allowing vermouth to turn into vinegar and a number of food myths and fad diets, the dirty vodka martini was born. A successful vodka is one you can't taste, and its inclusion in a cocktail suggests that one wants to beef up the proof of a beverage while letting the flavor of the modifiers shine through. Given that the modern Dirty Martini is just olive brine and vodka, wouldn't that suggest that people sit at home drinking olive brine for the flavor? When the most ordered “bougie” cocktail is fundamentally a Pickleback, it's time to take a stance against the prolification of bad taste. All users attempting to post cocktails with olives in the recipe—and all recipes associated with that account—will be deleted.",
+      "articleTopicId": 1,
+      "date": 1671482805000,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Oleosaccharum",
+      "subTitle": "Creating Potent Flavors With Waste Ingredients",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671565080/ozwwnozjxvxdqthpb7hy.jpg",
+      "content": "Essential oils are a boutiful source of flavor and aroma. Soda companies often make use of extremely potent, industrial grade essential oils to produce soft drinks in colossal volumes, but what if I told you the origin of this technique lies in Oleosaccharum; a Punch ingredient? \n\nLet's define our terms here. When I use the word, “Punch,” I don't mean some clumsy concoction of Kool-Aide and booze. Punch is the precursor to the cocktail – specifically the sour. Prior to the industrial revolution, laborers would gather after a hard day's work to enjoy large-format beverages at the local tavern. To get the most flavor from the imported citrus, the peels of the fruit would be steeped in crystaline sugar to pull out the oils. This process results in bolstering the flavor of the citrus without adding additional acid, resulting in an unbalanced beverage. This is called an, “Oleosaccharum” – literally translating to “oil sugar.”\n\nThere is a lot of false information regarding Oleosaccharum. First, the biggest myth is that it is a hygroscopic process, which couldn't be further from the truth. The term “hygroscopic” refers to a scientific instrument, the hygroscope, which is no longer scientifically viable. It was meant to measure the relative humidity based on a differential of swell in certain organic materials. Oleosaccharum is the product of sugar crystals masserating the peels of oily citrus, and does not rely much on the moisture content of said peels. The second biggest myth is that any fruit can be used to produce Oleosaccharum. I often see “Strawberry Oleosaccharum” on menus, but the sugar is pulling substantially more water from the strawberries than oil, producing a syrup. Finally, let's address pourable Oleosaccharum. Water is an ingredient in all cocktails, and adding it to an Oleosaccharum to make it more pourable is a similar solution to that of honey syrup. The use of an oleo syrup is great, since it adds flavor while maximizing yields for bulk service, but we can do better at home. Using less sugar results in a pure, pourable Oleosaccharum, though the yield is substantially smaller. Look for our article on Sherbet to see a great compromise between syrups and oleos! Does any of this really matter for the production of a cocktail? No. I would just rather not see a centuries old craft be reduced to appropriated buzz words.\n\nTo make an Oleosaccharum, you add peels to sugar. That's it. The Roebuck's Ruin approach to an Oleosaccharum is to limit the sugar to peel ratio to maximize the flavanoids of the peels to the weight of the sugar. For large grapefruit, I use 60g/fruit. A standard orange will see around 45g/fruit, and lemons and lime, depending on their size, will see 20-30g/fruit. Definitely try this out in some of your favorite classic cocktails or just mix with soda for a refreshing, homemade soft drink.",
+      "articleTopicId": 3,
+      "date": 1671565081000,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Sherbets",
+      "subTitle": "Definitely Not Sherbert",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672342157/f20dhg5jvfbuwazvar38.jpg",
+      "content": "Think back to a time before the industrial revolution—where laborers worked physical jobs while the sun was up and retired only after socializing and imbibing around a punch bowl at their local tavern. This punch, the precursor to the fixx-style cocktail, was in a large enough volume where some amazing culinary techniques could be used to bolster flavor with what is typically considered a waste ingredients. We already covered how to make Oleosaccharum in a previous article, but what do you do with the fruit juice once the peels have been used? In comes Sherbet.\n\nThe term “Sherbet” began as the original “soft drink” in the Middle East. This version of Sherbet was a refreshing pomegranate beverage. Flash forward to the 1950s, where the misappropriation of the term was used for “Sherbert,” a frozen fruit-forward ice cream. Our relationship with Sherbet is focused around the 1600s, where Sherbet is the combination of a fruit's juice and the Oleosaccharum from its peels. That's a simple enough definition for large-format punches, but how can we use it for cocktails?\n\nThe Roebuck's Ruin approach to sherbet is to mimic a 1:1 simple syrup. Instead of using straight sugar and water, use an Oleosaccharum and fruit juice in equal weights. Since Oleosaccharum takes at least 24 hours to prepare, I prefer to take the time to clarify the fruit juice with pectin enzyme before passing it through a coffee filter to remove some of the solid plant material. This results in a clear, clean, fruit-forward syrup to use in cocktails. The question is, when and how to use Sherbet?\n\nFixx-style cocktails are a great place to use Sherbet, seeing as how they both have the same origin. A Whiskey Sour with Orange Sherbet, in reference to Dan Sabo's award winning recipe. You can also try it out in a Collins-style beverage. Upgrade your Paloma with a Grapefruit Sherbet to pump the grapefruit flavor to 11 without losing the subtle minerality of the tequila. I personally adore the combination of orange and espresso, so try it in your Espresso Martini instead of Demerara. The Mid-Century Old Fashioned and the Wisconsin Old Fashioned call for muddled fruit, so why not clean up the experience (and the glass) with a Sherbet?\n\nFinally, let's talk about using a primary citrus for Sherbets. A primary citrus is a citrus fruit with enough acid to act as the sour component of a Fixx or Collins. This includes Limes, Lemons, Yuzu, Bergamot, etc. Though they vary in acidity, here at Roebuck's Ruin, we aim for the 6% rule authored by Dave Arnold's Liquid Intelligence. If made in equal parts, a Lime Sherbet will have a 3% acid solution, but if acid-adjusted to be the full 6%, you'll have a gorgeous replacement for Rose's Lime Cordial for those stirred gimlets.",
+      "articleTopicId": 3,
+      "date": 1672342161183,
+      "id": 3
+    }
+  ],
+  "articleTopics": [
     {
       "id": 1,
-      "employeeId": 1,
-      "image": "url",
-      "content": "The quick brown fox jumped over the something somthing.",
-      "dateCompleted": "Fri, 02 Feb 1996 03:04:05 GMT"
+      "name": "THEORY"
+    },
+    {
+      "id": 2,
+      "name": "COCKTAILS"
+    },
+    {
+      "id": 3,
+      "name": "RECIPE"
+    },
+    {
+      "id": 4,
+      "name": "BAR/TENDER HIGHLIGHT"
     }
   ],
   "cocktails": [
     {
       "id": 1,
       "name": "Old Fashioned",
-      "image": "url",
+      "image": "https://res.cloudinary.com/dwbxabkg7/image/upload/v1670860377/OldFashioned_t3gi32.jpg",
       "userId": 1,
       "methodId": 1,
       "notes": "This is a six drink cocktail. The first two drinks should be strong. The next two drinks should be perfect. The final two drinks, the drink should be on its way out. Stir the cocktail in the glass on a giant piece of ice for more control and better presentation.",
-      "dateCompleted": "Fri, 02 Feb 1996 03:04:05 GMT"
+      "dateCompleted": 1670887444005
+    },
+    {
+      "name": "Bramble",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1670895053/lhdw9ptgo4nsfxxjpr71.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "Dick Bradsell's original cocktail was inspired by a tasting of an English Creme de Mure that reminded him of his youth in the English countryside. As such, he made the drink in the hopes that it would be a love song to England. The Roebuck's Ruin approach to fruit-based liqueurs is to muddle fresh fruit--in this case blackberries--into the cocktail with a lighter pour of simple syrup to account for the sweetness of the berries. If you enjoy this beverage, definitely check out the original Cosmopolitan!",
+      "dateCompleted": 1670895055106,
+      "id": 2
+    },
+    {
+      "name": "Daiquiri",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1670895564/cpbxbahyh9rb5jvx2xzb.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The official origin story of the Daiquiri is not worth diving into. The mixing of rum, lime, and sugar predated the claims of the rich, white guy who claimed the invention of the beverage. Sailors of the time were rationed a grog of the three ingredients:\nLime to prevent scurvy, rum and sugar to prevent mutiny.",
+      "dateCompleted": 1670895565064,
+      "id": 3
+    },
+    {
+      "name": "Kentucky Buck",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671031548/e1ojpan2dwq6zaoyb2fr.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "This modern classic was originally made by Erick Castro and Bourbon & Branch in San Francisco. For me, this drink makes me consider how strawberries fit into a cocktail. I tend to think of them as auto-balancing, bringing enough sugar and acid to a sour or collins without needing to make other considerations for citrus or sugar.",
+      "dateCompleted": 1671031550612,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "Penicillin",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671049305/nwtgfzzvy7vhgdg70qw9.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Penicillin is a modern classic from Sam Ross at Milk and Honey. This cocktail was a riff on another modern classic--the gold rush--but includes a light pour of ginger syrup and a float of a peaty Islay scotch. Sam Ross now owns Attaboy New York and Attaboy bologna sandwich.",
+      "dateCompleted": 1671049306897
+    },
+    {
+      "id": 7,
+      "name": "Bees Knees",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671070994/sglx9dfadmpamfdtzcsr.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Bee's Knees is an American Prohibition-era cocktail. The character of the bathtub gin was big and mean, so a honey syrup was used help mask the flavor of the sub-par spirit. 100 years later, we don't have that issue. To properly balance this cocktail, Roebuck's Ruin suggests a honey syrup that is 3:2 honey to water. Honey is roughly 80% sugar, which results in a 50% sugar solution.",
+      "dateCompleted": 1671070995487
+    },
+    {
+      "id": 8,
+      "name": "Rum Runner",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671071796/ekwty6f5hgihppkcoyeb.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "This beverage is named after the rum merchants who sold the product off American shores during prohibition, the rum runner has had a few variations over the years. The original version of this cocktail was a sweet drink with a fair amount of fruit juice and no real structure. The Roebuck's Ruin favorite version of the Rum Runner comes from Erick Castro at Raised by Wolves. He took the beverage and added a primary acid to balance out the sugar in the beverage, simplified the spirit selection, and a fair amount of bitters as a float, to spice up the nose of the beverage.",
+      "dateCompleted": 1671071796744
+    },
+    {
+      "id": 9,
+      "name": "Vieux Carre",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671207436/b0memq4xrmscoq0zok29.jpg",
+      "userId": 1,
+      "methodId": 1,
+      "notes": "The Vieux Carre is one of the “Improved Cocktails” developed at the Carrousel Bar in New Orleans. What we know as the “Old Fashioned” was the original cocktail, but as exotic ingredients began to arrive from France, bartenders were obviously inspired to use them. This iteration made use of Sweet Vermouth and Benedictine—an herbacious liqueur with heathered honey made by Benedictine monks. The original cocktail was made with cognac, but the drink was commonly made with rye whiskey after phylloxera ravaged French vineyards. It is because of this that a contemporary Viex Carre will often include equal parts cognac and rye, as homage to the drink's roots.\n",
+      "dateCompleted": 1671207437459
+    },
+    {
+      "id": 10,
+      "name": "Whiskey Sour",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671211857/btxk15cky8gdchcuqugn.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "yum in my tum with some bubblegum.",
+      "dateCompleted": 1671211858692
+    },
+    {
+      "id": 11,
+      "name": "El Diablo",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1671212168/bf0s3wvorqwrcaiosaqt.jpg",
+      "userId": 1,
+      "methodId": 1,
+      "notes": "This drink was originally created by Tiki titan, Trader Vic, in the 1940s. The original spec calls for ginger beer, but ginger beer wildly fluctuates in spice and sweetness (think Canada Dry vs. Barritt's. My preferred spec is a standard Collins-style beverage with a split sugar of Creme de Cassis--or black currant liqueur--and ginger syrup. Some iterations of this cocktail sink the Creme de Cassis to diffuse into the cocktail, and where this looks cool, it makes every sip either too sharp or too sweet. Layering a cocktail is better suited for ingredients that don't affect the balance of the beverage. To REALLY impress your friends and patrons, hand carve an ice spear and garnish with a hellish pour of ignited Lemon Hart 151 in a spent lime husk, as a nod to the beverage's tiki origins.",
+      "dateCompleted": 1671212169445
     }
   ],
   "methods": [
     {
       "id": 1,
-      "name": "stirred"
+      "name": "Stirred"
     },
     {
       "id": 2,
-      "name": "shake"
+      "name": "Shaken"
     },
     {
       "id": 3,
-      "name": "dry shake"
+      "name": "Reverse Dry Shake"
+    },
+    {
+      "id": 4,
+      "name": "Build In Glass"
     }
   ],
   "cocktailTypes": [
     {
-      "id": 1,
+      "typeId": 4,
+      "cocktailId": 2,
+      "id": 2
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 3,
+      "id": 3
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 4,
+      "id": 4
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 6,
+      "id": 6
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 7,
+      "id": 7
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 8,
+      "id": 8
+    },
+    {
       "typeId": 1,
-      "cocktailId": 1
+      "cocktailId": 9,
+      "id": 9
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 10,
+      "id": 10
+    },
+    {
+      "typeId": 1,
+      "cocktailId": 1,
+      "id": 13
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 11,
+      "id": 14
     }
   ],
   "types": [
@@ -86,7 +257,7 @@
     },
     {
       "id": 2,
-      "name": "Nog"
+      "name": "Flip"
     },
     {
       "id": 3,
@@ -103,22 +274,244 @@
   ],
   "cocktailIngredients": [
     {
-      "id": 1,
-      "cocktailId": 1,
-      "ingredientId": 1,
-      "volume": 2
-    },
-    {
-      "id": 2,
-      "cocktailId": 1,
-      "ingredientId": 2,
-      "volume": 0.25
-    },
-    {
       "id": 3,
       "cocktailId": 1,
       "ingredientId": 3,
       "volume": 2
+    },
+    {
+      "volume": 2,
+      "ingredientId": 6,
+      "cocktailId": 2,
+      "id": 4
+    },
+    {
+      "volume": 0.5,
+      "ingredientId": 9,
+      "cocktailId": 2,
+      "id": 6
+    },
+    {
+      "volume": 4,
+      "ingredientId": 14,
+      "cocktailId": 2,
+      "id": 7
+    },
+    {
+      "volume": 2,
+      "ingredientId": 8,
+      "cocktailId": 3,
+      "id": 8
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 9,
+      "cocktailId": 3,
+      "id": 9
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 5,
+      "cocktailId": 3,
+      "id": 10
+    },
+    {
+      "volume": 0.75,
+      "ingredientId": 18,
+      "cocktailId": 4,
+      "id": 13
+    },
+    {
+      "volume": 2,
+      "ingredientId": 19,
+      "cocktailId": 4,
+      "id": 15
+    },
+    {
+      "ingredientId": 20,
+      "volume": 2,
+      "cocktailId": 4,
+      "id": 16
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 4,
+      "id": 17
+    },
+    {
+      "ingredientId": 16,
+      "volume": 2,
+      "cocktailId": 4,
+      "id": 18
+    },
+    {
+      "ingredientId": 20,
+      "volume": 2,
+      "cocktailId": 1,
+      "id": 20
+    },
+    {
+      "ingredientId": 5,
+      "volume": 0.75,
+      "cocktailId": 2,
+      "id": 21
+    },
+    {
+      "ingredientId": 23,
+      "volume": 2,
+      "cocktailId": 6,
+      "id": 25
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 6,
+      "id": 26
+    },
+    {
+      "ingredientId": 21,
+      "volume": 0.375,
+      "cocktailId": 6,
+      "id": 27
+    },
+    {
+      "ingredientId": 18,
+      "volume": 0.375,
+      "cocktailId": 6,
+      "id": 28
+    },
+    {
+      "ingredientId": 24,
+      "volume": 0.25,
+      "cocktailId": 6,
+      "id": 29
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 7,
+      "id": 30
+    },
+    {
+      "ingredientId": 21,
+      "volume": 0.75,
+      "cocktailId": 7,
+      "id": 31
+    },
+    {
+      "ingredientId": 6,
+      "volume": 2,
+      "cocktailId": 7,
+      "id": 32
+    },
+    {
+      "ingredientId": 8,
+      "volume": 2,
+      "cocktailId": 8,
+      "id": 33
+    },
+    {
+      "ingredientId": 5,
+      "volume": 1,
+      "cocktailId": 8,
+      "id": 34
+    },
+    {
+      "ingredientId": 9,
+      "volume": 1,
+      "cocktailId": 8,
+      "id": 35
+    },
+    {
+      "ingredientId": 26,
+      "volume": 2,
+      "cocktailId": 8,
+      "id": 36
+    },
+    {
+      "ingredientId": 3,
+      "volume": 10,
+      "cocktailId": 8,
+      "id": 37
+    },
+    {
+      "ingredientId": 12,
+      "volume": 1,
+      "cocktailId": 9,
+      "id": 38
+    },
+    {
+      "ingredientId": 1,
+      "volume": 1,
+      "cocktailId": 9,
+      "id": 39
+    },
+    {
+      "ingredientId": 10,
+      "volume": 1,
+      "cocktailId": 9,
+      "id": 40
+    },
+    {
+      "ingredientId": 11,
+      "volume": 0.125,
+      "cocktailId": 9,
+      "id": 41
+    },
+    {
+      "ingredientId": 1,
+      "volume": 2,
+      "cocktailId": 10,
+      "id": 42
+    },
+    {
+      "ingredientId": 9,
+      "volume": 0.75,
+      "cocktailId": 10,
+      "id": 43
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 10,
+      "id": 44
+    },
+    {
+      "ingredientId": 2,
+      "volume": 0.25,
+      "cocktailId": 1,
+      "id": 45
+    },
+    {
+      "ingredientId": 7,
+      "volume": 2,
+      "cocktailId": 11,
+      "id": 46
+    },
+    {
+      "ingredientId": 5,
+      "volume": 1,
+      "cocktailId": 11,
+      "id": 47
+    },
+    {
+      "ingredientId": 22,
+      "volume": 0.5,
+      "cocktailId": 11,
+      "id": 49
+    },
+    {
+      "ingredientId": 16,
+      "volume": 2,
+      "cocktailId": 11,
+      "id": 50
+    },
+    {
+      "ingredientId": 18,
+      "volume": 0.5,
+      "cocktailId": 11,
+      "id": 51
     }
   ],
   "ingredients": [
@@ -134,7 +527,127 @@
     },
     {
       "id": 3,
-      "name": "Angostura",
+      "name": "Angostura Bitters",
+      "ingredientTypeId": 3
+    },
+    {
+      "id": 4,
+      "name": "Lemon",
+      "ingredientTypeId": 4
+    },
+    {
+      "id": 5,
+      "name": "Lime",
+      "ingredientTypeId": 4
+    },
+    {
+      "id": 6,
+      "name": "London Dry Gin",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 7,
+      "name": "Blanco Tequila",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 8,
+      "name": "Jamaican Rum",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 9,
+      "name": "Simple Syrup",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 10,
+      "name": "Sweet Vermouth",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 11,
+      "name": "Benedictine",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 12,
+      "name": "Cognac",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 13,
+      "name": "Orange Oleosaccharum",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 14,
+      "name": "Blackberries",
+      "ingredientTypeId": 6
+    },
+    {
+      "id": 15,
+      "name": "Pineapple Juice",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 16,
+      "name": "Soda",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 17,
+      "name": "Heavy Cream",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 18,
+      "name": "Ginger Syrup",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 19,
+      "name": "Strawberries",
+      "ingredientTypeId": 6
+    },
+    {
+      "id": 20,
+      "name": "Bourbon Whiskey",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 21,
+      "name": "Honey Syrup",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 22,
+      "name": "Creme de Cassis",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 23,
+      "name": "Blended Scotch",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 24,
+      "name": "Islay Scotch",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 25,
+      "name": "Mint",
+      "ingredientTypeId": 6
+    },
+    {
+      "id": 26,
+      "name": "Pineapple Juice",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 27,
+      "name": "Peyschaud's Bitters",
       "ingredientTypeId": 3
     }
   ],
@@ -158,6 +671,14 @@
     {
       "id": 5,
       "name": "Lengthener"
+    },
+    {
+      "id": 7,
+      "name": "Liqueur"
+    },
+    {
+      "id": 6,
+      "name": "Fresh Produce"
     }
   ]
 }
