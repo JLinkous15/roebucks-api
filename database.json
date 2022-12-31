@@ -178,6 +178,69 @@
       "methodId": 1,
       "notes": "This drink was originally created by Tiki titan, Trader Vic, in the 1940s. The original spec calls for ginger beer, but ginger beer wildly fluctuates in spice and sweetness (think Canada Dry vs. Barritt's. My preferred spec is a standard Collins-style beverage with a split sugar of Creme de Cassis--or black currant liqueur--and ginger syrup. Some iterations of this cocktail sink the Creme de Cassis to diffuse into the cocktail, and where this looks cool, it makes every sip either too sharp or too sweet. Layering a cocktail is better suited for ingredients that don't affect the balance of the beverage. To REALLY impress your friends and patrons, hand carve an ice spear and garnish with a hellish pour of ignited Lemon Hart 151 in a spent lime husk, as a nod to the beverage's tiki origins.",
       "dateCompleted": 1671212169445
+    },
+    {
+      "id": 12,
+      "name": "Queen's Park Swizzle",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672350142/gnsc1wb7ccx3v5szwjov.jpg",
+      "userId": 1,
+      "methodId": 3,
+      "notes": "The Queen's Park Swizzle is named after the Trinidadian Hotel of the same name in the 1920s. This is somewhere between a daiquiri and a mojito, with a heavy pour of Angostura for the nose as a garnish. This beverage is serves on crushed ice, so a whip shape is ideal. If you really want to pump up the flavors and create a vibrant contrast of colors, try Dave Arnold's blender muddling technique!",
+      "dateCompleted": 1672350146235
+    },
+    {
+      "id": 13,
+      "name": "Gin Basil Julep",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672439053/td05ljf2ioeywksk50xs.jpg",
+      "userId": 2,
+      "methodId": 4,
+      "notes": "This is a personal riff on the Mint Julep with inspiration from the Gin Basil Smash. A great alternative for Derby Day.",
+      "dateCompleted": 1672439058249
+    },
+    {
+      "id": 14,
+      "name": "Conquistador",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672439320/kvh9rvj43wg7rvdaqgsh.jpg",
+      "userId": 2,
+      "methodId": 3,
+      "notes": "This is a cocktail by the famous Sam Ross of Milk and Honey NYC and Attaboy acclaim. This modern classic finds harmony between Central American spirits, balancing between minerality and barrel flavors.",
+      "dateCompleted": 1672439325125
+    },
+    {
+      "id": 15,
+      "name": "French 75",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672439836/jc0mozcxwxpspfnzbu9l.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The French 75 was created by Harry McElhone at Harry's American Bar in Paris. The French 75 (known simply as the 75 Cocktail in France) was said to have such a kick that it felt like getting hit by a French 75mm field gun. To add a little more character, try splitting the sugar with a digestif or aperitif. ",
+      "dateCompleted": 1672439842146
+    },
+    {
+      "id": 16,
+      "name": "Jungle Bird",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672443340/l2tjldzepbdvheeasf2q.jpg",
+      "userId": 2,
+      "methodId": 2,
+      "notes": "I love the contemporary spec of the Jungle Bird. Not only is the drink perfectly balanced with a strong, bitter backbone, but it is also a great space to experiment with Amari. Campari is the traditional Aperitif used in this cocktail, but Sfumato Rhubarbaro and Gran Classico are also great options!",
+      "dateCompleted": 1672443345856
+    },
+    {
+      "id": 17,
+      "name": "Peruvian Buck",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672443597/mqixkjiiivyqfgt0cksj.jpg",
+      "userId": 2,
+      "methodId": 2,
+      "notes": "",
+      "dateCompleted": 1672443602976
+    },
+    {
+      "id": 18,
+      "name": "Iron Ranger",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672444198/ki8ek55faclza89rrypn.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Iron Ranger is a Bourbon Tiki Cocktail coming from the mind of Erick Castro of Raised by Wolves. This is basically his Rum Runner with Bourbon and garnished with some freshly grated cinnamon. Since this cocktail is served on Crushed Ice, it's a great opportunity to work on the \"whip and dump\" technique.",
+      "dateCompleted": 1672444203857
     }
   ],
   "methods": [
@@ -248,6 +311,36 @@
       "typeId": 5,
       "cocktailId": 11,
       "id": 14
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 12,
+      "id": 15
+    },
+    {
+      "typeId": 1,
+      "cocktailId": 13,
+      "id": 16
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 15,
+      "id": 17
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 16,
+      "id": 18
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 17,
+      "id": 19
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 18,
+      "id": 20
     }
   ],
   "types": [
@@ -512,6 +605,186 @@
       "volume": 0.5,
       "cocktailId": 11,
       "id": 51
+    },
+    {
+      "ingredientId": 8,
+      "volume": 2,
+      "cocktailId": 12,
+      "id": 52
+    },
+    {
+      "ingredientId": 5,
+      "volume": 0.75,
+      "cocktailId": 12,
+      "id": 53
+    },
+    {
+      "ingredientId": 9,
+      "volume": 0.75,
+      "cocktailId": 12,
+      "id": 54
+    },
+    {
+      "ingredientId": 25,
+      "volume": 5,
+      "cocktailId": 12,
+      "id": 55
+    },
+    {
+      "ingredientId": 28,
+      "volume": 2,
+      "cocktailId": 13,
+      "id": 56
+    },
+    {
+      "ingredientId": 9,
+      "volume": 0.5,
+      "cocktailId": 13,
+      "id": 57
+    },
+    {
+      "ingredientId": 29,
+      "volume": 5,
+      "cocktailId": 13,
+      "id": 58
+    },
+    {
+      "ingredientId": 7,
+      "volume": 1,
+      "cocktailId": 14,
+      "id": 59
+    },
+    {
+      "ingredientId": 8,
+      "volume": 1,
+      "cocktailId": 14,
+      "id": 60
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 14,
+      "id": 61
+    },
+    {
+      "ingredientId": 9,
+      "volume": 0.75,
+      "cocktailId": 14,
+      "id": 62
+    },
+    {
+      "ingredientId": 30,
+      "volume": 1,
+      "cocktailId": 14,
+      "id": 63
+    },
+    {
+      "ingredientId": 6,
+      "volume": 1,
+      "cocktailId": 15,
+      "id": 64
+    },
+    {
+      "ingredientId": 31,
+      "volume": 0.25,
+      "cocktailId": 15,
+      "id": 65
+    },
+    {
+      "ingredientId": 9,
+      "volume": 0.25,
+      "cocktailId": 15,
+      "id": 66
+    },
+    {
+      "ingredientId": 33,
+      "volume": 3,
+      "cocktailId": 15,
+      "id": 67
+    },
+    {
+      "ingredientId": 8,
+      "volume": 1.5,
+      "cocktailId": 16,
+      "id": 68
+    },
+    {
+      "ingredientId": 32,
+      "volume": 0.75,
+      "cocktailId": 16,
+      "id": 69
+    },
+    {
+      "ingredientId": 5,
+      "volume": 0.5,
+      "cocktailId": 16,
+      "id": 70
+    },
+    {
+      "ingredientId": 9,
+      "volume": 0.5,
+      "cocktailId": 16,
+      "id": 71
+    },
+    {
+      "ingredientId": 26,
+      "volume": 2,
+      "cocktailId": 16,
+      "id": 72
+    },
+    {
+      "ingredientId": 34,
+      "volume": 2,
+      "cocktailId": 17,
+      "id": 73
+    },
+    {
+      "ingredientId": 5,
+      "volume": 1,
+      "cocktailId": 17,
+      "id": 74
+    },
+    {
+      "ingredientId": 18,
+      "volume": 0.75,
+      "cocktailId": 17,
+      "id": 75
+    },
+    {
+      "ingredientId": 16,
+      "volume": 2,
+      "cocktailId": 17,
+      "id": 76
+    },
+    {
+      "ingredientId": 20,
+      "volume": 2,
+      "cocktailId": 18,
+      "id": 77
+    },
+    {
+      "ingredientId": 4,
+      "volume": 1,
+      "cocktailId": 18,
+      "id": 78
+    },
+    {
+      "ingredientId": 9,
+      "volume": 1,
+      "cocktailId": 18,
+      "id": 79
+    },
+    {
+      "ingredientId": 3,
+      "volume": 6,
+      "cocktailId": 18,
+      "id": 80
+    },
+    {
+      "ingredientId": 26,
+      "volume": 2,
+      "cocktailId": 18,
+      "id": 81
     }
   ],
   "ingredients": [
@@ -563,12 +836,12 @@
     {
       "id": 10,
       "name": "Sweet Vermouth",
-      "ingredientTypeId": 2
+      "ingredientTypeId": 7
     },
     {
       "id": 11,
       "name": "Benedictine",
-      "ingredientTypeId": 2
+      "ingredientTypeId": 7
     },
     {
       "id": 12,
@@ -623,7 +896,7 @@
     {
       "id": 22,
       "name": "Creme de Cassis",
-      "ingredientTypeId": 2
+      "ingredientTypeId": 7
     },
     {
       "id": 23,
@@ -649,6 +922,41 @@
       "id": 27,
       "name": "Peyschaud's Bitters",
       "ingredientTypeId": 3
+    },
+    {
+      "id": 28,
+      "name": "Old Tom Gin",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 29,
+      "name": "Basil",
+      "ingredientTypeId": 6
+    },
+    {
+      "id": 30,
+      "name": "Egg White",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 31,
+      "name": "Digestif",
+      "ingredientTypeId": 7
+    },
+    {
+      "id": 32,
+      "name": "Aperitif",
+      "ingredientTypeId": 7
+    },
+    {
+      "id": 33,
+      "name": "Champagne",
+      "ingredientTypeId": 8
+    },
+    {
+      "id": 34,
+      "name": "Pisco",
+      "ingredientTypeId": 1
     }
   ],
   "ingredientTypes": [
@@ -673,12 +981,16 @@
       "name": "Lengthener"
     },
     {
+      "id": 6,
+      "name": "Fresh Produce"
+    },
+    {
       "id": 7,
       "name": "Liqueur"
     },
     {
-      "id": 6,
-      "name": "Fresh Produce"
+      "id": 8,
+      "name": "Miscellaneous"
     }
   ]
 }
