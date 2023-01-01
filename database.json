@@ -241,6 +241,24 @@
       "methodId": 2,
       "notes": "The Iron Ranger is a Bourbon Tiki Cocktail coming from the mind of Erick Castro of Raised by Wolves. This is basically his Rum Runner with Bourbon and garnished with some freshly grated cinnamon. Since this cocktail is served on Crushed Ice, it's a great opportunity to work on the \"whip and dump\" technique.",
       "dateCompleted": 1672444203857
+    },
+    {
+      "id": 19,
+      "name": "PB&J Old Fashioned",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672521234/gtqgqvip95fhdaslkdwf.jpg",
+      "userId": 2,
+      "methodId": 1,
+      "notes": "This beverage uses a technique known as \"fat-washing.\" Since Ethynol--the alcohol in booze--is a solvent, it can break down the fats and access the flavoring solids trapped inside. To prep the bourbon, pour the oil off of the top of a jar of peanut butter and add your bourbon. Shake and let settle. Once settled, place the container into the freezer. The oils will solidify while the spirit will remain liquid. Feel free to sub out the strawberry syrup for any other fruit syrup. Texture and sugar will be affected if you use actual jelly, but it may be a fun exercise.",
+      "dateCompleted": 1672521240514
+    },
+    {
+      "id": 20,
+      "name": "Paper Plane",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672522700/m80bzi31djysmislvujf.jpg",
+      "userId": 2,
+      "methodId": 2,
+      "notes": "The Paper Plane is a Modern Classic from Sam Ross. It is an equal parts cocktail that finds all of its sugar and some of its proof in Amari from the Veneto in Northern Italy. The original calls for Aperol and Amaro Nonino, but I prefer the beverage with Gran Classico.",
+      "dateCompleted": 1672522706214
     }
   ],
   "methods": [
@@ -341,6 +359,21 @@
       "typeId": 5,
       "cocktailId": 18,
       "id": 20
+    },
+    {
+      "typeId": 1,
+      "cocktailId": 19,
+      "id": 21
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 20,
+      "id": 22
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 14,
+      "id": 23
     }
   ],
   "types": [
@@ -358,7 +391,7 @@
     },
     {
       "id": 4,
-      "name": "Sour"
+      "name": "Fixx"
     },
     {
       "id": 5,
@@ -785,6 +818,48 @@
       "volume": 2,
       "cocktailId": 18,
       "id": 81
+    },
+    {
+      "ingredientId": 20,
+      "volume": 2,
+      "cocktailId": 19,
+      "id": 82
+    },
+    {
+      "ingredientId": 35,
+      "volume": 0.5,
+      "cocktailId": 19,
+      "id": 83
+    },
+    {
+      "ingredientId": 36,
+      "volume": 2,
+      "cocktailId": 19,
+      "id": 84
+    },
+    {
+      "ingredientId": 20,
+      "volume": 0.75,
+      "cocktailId": 20,
+      "id": 85
+    },
+    {
+      "ingredientId": 32,
+      "volume": 0.75,
+      "cocktailId": 20,
+      "id": 86
+    },
+    {
+      "ingredientId": 31,
+      "volume": 0.75,
+      "cocktailId": 20,
+      "id": 87
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 20,
+      "id": 88
     }
   ],
   "ingredients": [
@@ -957,6 +1032,16 @@
       "id": 34,
       "name": "Pisco",
       "ingredientTypeId": 1
+    },
+    {
+      "id": 35,
+      "name": "Strawberry Syrup",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 36,
+      "name": "Black Walnut Bitters",
+      "ingredientTypeId": 3
     }
   ],
   "ingredientTypes": [
