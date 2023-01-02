@@ -259,6 +259,42 @@
       "methodId": 2,
       "notes": "The Paper Plane is a Modern Classic from Sam Ross. It is an equal parts cocktail that finds all of its sugar and some of its proof in Amari from the Veneto in Northern Italy. The original calls for Aperol and Amaro Nonino, but I prefer the beverage with Gran Classico.",
       "dateCompleted": 1672522706214
+    },
+    {
+      "id": 21,
+      "name": "Margarita",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672683077/nr3drwqnmepuzn769fwq.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Margarita is the most popular tequila cocktail that comes from Mexico. The origin of the cocktail is cloudy at best, with many origin stories and claims. The honest truth is that we've been mixing citrus, sugar, and spirit for centuries before the invention of the cocktail in the 1800s, so many of the claims are potentially accurate. My favorite aspect of this beverage is how to work in the subtle orange flavor into the beverage. It traditionally uses a triple sec or curacao, but harnessing the essential oils in orange peels to produce a citrusy aroma and brings the texture of a simple syrup. To balance the added sugar, I've upped the acidic lime juice by a quarter ounce from a standard fixx.",
+      "dateCompleted": 1672683086698
+    },
+    {
+      "id": 22,
+      "name": "The Child",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672692573/qcvhgn3xyuavdilvikey.jpg",
+      "userId": 2,
+      "methodId": 2,
+      "notes": "\"The Child\" is a fun cocktail from Trader Sam's at Disneyland. The story goes that it was originally called \"The Baby Yoda\" before Lucasfilm sent a cease and desist. I'm not sure how the works, since Disney owns Lucas Film, but the drink has since been renamed to \"The Child,\" and is an off-menu beverage.",
+      "dateCompleted": 1672692582556
+    },
+    {
+      "id": 23,
+      "name": "Neptune's Wrath",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672693112/fxj08sbicgfcyxcjk7bw.jpg",
+      "userId": 2,
+      "methodId": 3,
+      "notes": "Neptune's Wrath is beverage from Milk and Honey alum, Tobey Maloney at the Violet Hour in Chicago. The flaming Chartreuse is meant to be an expression of Neptune's wrath in rough seas. Pouring flaming Chartreuse for your friends and/or patrons is also a great way to add some theatrics to the evening.",
+      "dateCompleted": 1672693121619
+    },
+    {
+      "id": 24,
+      "name": "Eggnog",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672693656/oka2cffjtzdkumthsi9v.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "This recipe is a single-serving size of George Washington's famous eggnog recipe. Fun Fact, George Washington LOVED Jamaican Rum. During his inauguration, good ole' George demanded plenty of Jamaican Rum and Rye Whiskey. I prefer an Amontillado Sherry, but go with whatever brings you joy.",
+      "dateCompleted": 1672693665700
     }
   ],
   "methods": [
@@ -374,6 +410,26 @@
       "typeId": 4,
       "cocktailId": 14,
       "id": 23
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 21,
+      "id": 24
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 22,
+      "id": 25
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 23,
+      "id": 26
+    },
+    {
+      "typeId": 2,
+      "cocktailId": 24,
+      "id": 27
     }
   ],
   "types": [
@@ -860,6 +916,132 @@
       "volume": 0.75,
       "cocktailId": 20,
       "id": 88
+    },
+    {
+      "ingredientId": 3,
+      "volume": 6,
+      "cocktailId": 12,
+      "id": 89
+    },
+    {
+      "ingredientId": 7,
+      "volume": 2,
+      "cocktailId": 21,
+      "id": 90
+    },
+    {
+      "ingredientId": 5,
+      "volume": 1,
+      "cocktailId": 21,
+      "id": 91
+    },
+    {
+      "ingredientId": 13,
+      "volume": 0.75,
+      "cocktailId": 21,
+      "id": 92
+    },
+    {
+      "ingredientId": 39,
+      "volume": 2,
+      "cocktailId": 22,
+      "id": 93
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 22,
+      "id": 94
+    },
+    {
+      "ingredientId": 38,
+      "volume": 0.75,
+      "cocktailId": 22,
+      "id": 95
+    },
+    {
+      "ingredientId": 37,
+      "volume": 0.25,
+      "cocktailId": 22,
+      "id": 96
+    },
+    {
+      "ingredientId": 26,
+      "volume": 1,
+      "cocktailId": 22,
+      "id": 97
+    },
+    {
+      "ingredientId": 6,
+      "volume": 1.5,
+      "cocktailId": 23,
+      "id": 98
+    },
+    {
+      "ingredientId": 9,
+      "volume": 0.75,
+      "cocktailId": 23,
+      "id": 99
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 23,
+      "id": 100
+    },
+    {
+      "ingredientId": 41,
+      "volume": 0.25,
+      "cocktailId": 23,
+      "id": 101
+    },
+    {
+      "ingredientId": 42,
+      "volume": 0.25,
+      "cocktailId": 23,
+      "id": 102
+    },
+    {
+      "ingredientId": 1,
+      "volume": 1,
+      "cocktailId": 24,
+      "id": 103
+    },
+    {
+      "ingredientId": 8,
+      "volume": 1,
+      "cocktailId": 24,
+      "id": 104
+    },
+    {
+      "ingredientId": 44,
+      "volume": 0.5,
+      "cocktailId": 24,
+      "id": 105
+    },
+    {
+      "ingredientId": 2,
+      "volume": 0.5,
+      "cocktailId": 24,
+      "id": 106
+    },
+    {
+      "ingredientId": 43,
+      "volume": 1,
+      "cocktailId": 24,
+      "id": 107
+    },
+    {
+      "ingredientId": 17,
+      "volume": 1,
+      "cocktailId": 24,
+      "id": 108
+    },
+    {
+      "ingredientId": 36,
+      "volume": 2,
+      "cocktailId": 24,
+      "id": 109
     }
   ],
   "ingredients": [
@@ -1042,6 +1224,46 @@
       "id": 36,
       "name": "Black Walnut Bitters",
       "ingredientTypeId": 3
+    },
+    {
+      "id": 37,
+      "name": "Coconut Cream",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 38,
+      "name": "Midori",
+      "ingredientTypeId": 7
+    },
+    {
+      "id": 39,
+      "name": "White Rum",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 40,
+      "name": "Orange Juice",
+      "ingredientTypeId": 2
+    },
+    {
+      "id": 41,
+      "name": "Absinthe",
+      "ingredientTypeId": 7
+    },
+    {
+      "id": 42,
+      "name": "Green Chartreuse",
+      "ingredientTypeId": 7
+    },
+    {
+      "id": 43,
+      "name": "Whole Egg",
+      "ingredientTypeId": 5
+    },
+    {
+      "id": 44,
+      "name": "Sherry",
+      "ingredientTypeId": 7
     }
   ],
   "ingredientTypes": [
@@ -1071,7 +1293,7 @@
     },
     {
       "id": 7,
-      "name": "Liqueur"
+      "name": "Modifier"
     },
     {
       "id": 8,
