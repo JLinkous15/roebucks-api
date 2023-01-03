@@ -68,6 +68,16 @@
       "articleTopicId": 3,
       "date": 1672342161183,
       "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "The Gimlet",
+      "subTitle": "Stirred or Shaken?",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672759266/vyr1bj1gs0ouozrwzzfg.jpg",
+      "content": "A Gimlet is such a tasty beverage. The origin of the name, \"Gimlet\" comes from pre-Prohibition America, where a combination of gin, lime, and sugar was thought to be a cure for the common cold. When you order a Gimlet at a bar today, they will probably make a contemporary version, which is a shaken cocktail with fresh lime juice and simple syrup, but the original calls for Rose's Lime Cordial to be stirred with the spirit in equal measures. The quality of Rose's products have plummeted in recent years, so definitely make your own cordial. My recommendation is 1 part Lime Oleosaccharum and 1 part clarified lime juice. To acid adjust, add 2% citric acid and 1% malic acid by weight.\n\nThe recipe above creates a spectacular cocktail, but the question at hand is which beverage is better. Of course, this is based on personal preference, but the differences between the two beverages is empirical. Shaking a cocktail adds air, creating a lighter texture. The added aeration also brings many of the volatile compounds to the nose through the back palate. The texture of a stirred cocktail is much silkier, making the experience more luxurious. When using the recipe above, the added lime oils mitigate any difference in aroma. The main difference with with gin itself. Many of the botanicals in gin are very delicate and break down after shaking. The industry term for this effect is called, \"bruising.\" A shaken gimlet will lose much of the complexity of the spirit itself, where a stirred gimlet will deliver an experience more similar to that of a martini.\n\nIf time is of zero consequence, the stirred version is my favorite 10/10 times. Of course, at the end of the day, the answer is based on commitment and quality of the lime cordial. If I ever saw a stirred Gimlet on a bar menu, I probably would not have the highest confidence in the quality of the beverage, given the volume of guests bars have to deal with to be profitable. If I wanted to impress some friends for a dinner party, I would absolutely whip up a liter of this and bring a few spirits and soda for stirred Gimlets, stirred Daiquiris, stirred Margaritas, and an impossibly fizzy Tom Collins.",
+      "articleTopicId": 2,
+      "date": 1672759277098,
+      "id": 4
     }
   ],
   "articleTopics": [
@@ -295,6 +305,15 @@
       "methodId": 2,
       "notes": "This recipe is a single-serving size of George Washington's famous eggnog recipe. Fun Fact, George Washington LOVED Jamaican Rum. During his inauguration, good ole' George demanded plenty of Jamaican Rum and Rye Whiskey. I prefer an Amontillado Sherry, but go with whatever brings you joy.",
       "dateCompleted": 1672693665700
+    },
+    {
+      "id": 25,
+      "name": "Painkiller",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1672759170/qjglafj4z4t7ttnh8nzc.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "The Painkiller was originally made at the Soggy Dollar Bar in the Virgin Islands. The story goes that the owner of Pusser's Rum visit this bar and loved their Painkiller. When denied the recipe, the Pusser's Rum owner took the beverage back to his home to reverse engineer the specs. Long story short, Pusser's Rum ended up trademarking the stolen beverage and has since sued anyone who has tried to have a Painkiller on their menu without using Pusser's Rum. How lame is that?\n\nThis drink is fundamentally a Pina Colada, which categorically has more in common with eggnog than it does a rum runner. You'll notice that I chose to describe mine as a Collins, and that has much to do with the addition of the lime juice.",
+      "dateCompleted": 1672759181856
     }
   ],
   "methods": [
@@ -430,6 +449,11 @@
       "typeId": 2,
       "cocktailId": 24,
       "id": 27
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 25,
+      "id": 28
     }
   ],
   "types": [
@@ -1042,6 +1066,36 @@
       "volume": 2,
       "cocktailId": 24,
       "id": 109
+    },
+    {
+      "ingredientId": 8,
+      "volume": 2,
+      "cocktailId": 25,
+      "id": 110
+    },
+    {
+      "ingredientId": 26,
+      "volume": 2,
+      "cocktailId": 25,
+      "id": 111
+    },
+    {
+      "ingredientId": 5,
+      "volume": 0.5,
+      "cocktailId": 25,
+      "id": 112
+    },
+    {
+      "ingredientId": 37,
+      "volume": 0.75,
+      "cocktailId": 25,
+      "id": 113
+    },
+    {
+      "ingredientId": 40,
+      "volume": 0.5,
+      "cocktailId": 25,
+      "id": 114
     }
   ],
   "ingredients": [
