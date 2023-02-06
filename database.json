@@ -4,7 +4,7 @@
       "id": 1,
       "name": "James Linkous",
       "handle": "Roebuck's Ruin",
-      "email": "james.william.linkous@gmail.com",
+      "email": "james@gmail.com",
       "isStaff": true,
       "darkMode": false
     },
@@ -314,6 +314,33 @@
       "methodId": 2,
       "notes": "The Painkiller was originally made at the Soggy Dollar Bar in the Virgin Islands. The story goes that the owner of Pusser's Rum visit this bar and loved their Painkiller. When denied the recipe, the Pusser's Rum owner took the beverage back to his home to reverse engineer the specs. Long story short, Pusser's Rum ended up trademarking the stolen beverage and has since sued anyone who has tried to have a Painkiller on their menu without using Pusser's Rum. How lame is that?\n\nThis drink is fundamentally a Pina Colada, which categorically has more in common with eggnog than it does a rum runner. You'll notice that I chose to describe mine as a Collins, and that has much to do with the addition of the lime juice.",
       "dateCompleted": 1672759181856
+    },
+    {
+      "id": 26,
+      "name": "Gold Rush",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1673389266/tj6ohsysmtjwovulda4i.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "Created at Milk and Honey NYC. Nice foam on top.",
+      "dateCompleted": 1673389287925
+    },
+    {
+      "id": 27,
+      "name": "Mojito",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1673409913/tnywaqicac7qtebotqsj.jpg",
+      "userId": 1,
+      "methodId": 2,
+      "notes": "Instead of muddled, try blender muddling and straining before service.",
+      "dateCompleted": 1673409934909
+    },
+    {
+      "id": 28,
+      "name": "Negroni",
+      "image": "http://res.cloudinary.com/dwbxabkg7/image/upload/v1673410640/xxri9t2eaj3drepzquey.jpg",
+      "userId": 1,
+      "methodId": 1,
+      "notes": "Boulevardier specs keeps the beverage from becoming overly sweet.",
+      "dateCompleted": 1673410661845
     }
   ],
   "methods": [
@@ -454,6 +481,21 @@
       "typeId": 5,
       "cocktailId": 25,
       "id": 28
+    },
+    {
+      "typeId": 4,
+      "cocktailId": 26,
+      "id": 29
+    },
+    {
+      "typeId": 5,
+      "cocktailId": 27,
+      "id": 30
+    },
+    {
+      "typeId": 1,
+      "cocktailId": 28,
+      "id": 31
     }
   ],
   "types": [
@@ -1096,6 +1138,72 @@
       "volume": 0.5,
       "cocktailId": 25,
       "id": 114
+    },
+    {
+      "ingredientId": 1,
+      "volume": 2,
+      "cocktailId": 26,
+      "id": 115
+    },
+    {
+      "ingredientId": 4,
+      "volume": 0.75,
+      "cocktailId": 26,
+      "id": 116
+    },
+    {
+      "ingredientId": 21,
+      "volume": 0.75,
+      "cocktailId": 26,
+      "id": 117
+    },
+    {
+      "ingredientId": 47,
+      "volume": 2,
+      "cocktailId": 27,
+      "id": 118
+    },
+    {
+      "ingredientId": 9,
+      "volume": 1,
+      "cocktailId": 27,
+      "id": 119
+    },
+    {
+      "ingredientId": 5,
+      "volume": 1,
+      "cocktailId": 27,
+      "id": 120
+    },
+    {
+      "ingredientId": 16,
+      "volume": 2,
+      "cocktailId": 27,
+      "id": 121
+    },
+    {
+      "ingredientId": 25,
+      "volume": 5,
+      "cocktailId": 27,
+      "id": 122
+    },
+    {
+      "ingredientId": 10,
+      "volume": 0.75,
+      "cocktailId": 28,
+      "id": 123
+    },
+    {
+      "ingredientId": 32,
+      "volume": 0.75,
+      "cocktailId": 28,
+      "id": 124
+    },
+    {
+      "ingredientId": 6,
+      "volume": 1.5,
+      "cocktailId": 28,
+      "id": 125
     }
   ],
   "ingredients": [
@@ -1318,6 +1426,21 @@
       "id": 44,
       "name": "Sherry",
       "ingredientTypeId": 7
+    },
+    {
+      "id": 45,
+      "name": "Blackstrap Rum",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 46,
+      "name": "Vodka",
+      "ingredientTypeId": 1
+    },
+    {
+      "id": 47,
+      "name": "Blended Light Rum",
+      "ingredientTypeId": 1
     }
   ],
   "ingredientTypes": [
